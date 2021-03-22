@@ -5,7 +5,7 @@ This repository contains the *A study of the of the al-istihlal tab in Arab-Anda
 ##  Use
 The notebook is guided and easy to use, but the library [pycompmusic](https://github.com/MTG/pycompmusic) and [music21](http://web.mit.edu/music21/) are required.
 
-## Referencies
+## References
 [1] [Musical Biridges' Andalusian-tools](https://github.com/Musical-Bridges/andalusian-tools)
 
 [2] [Arab-Andalusian Corpus Analysis](https://github.com/MTG/andalusian-corpus-notebooks)
